@@ -9,7 +9,10 @@ The initial starter code was inspired by [this](https://codereview.stackexchange
 
 ## Description
 
-<img src="snake_game.gif"/>
+<img src="SnakeGame_easy.gif"/>
+
+<img src="SnakeGame_hard.gif"/>
+
 A fun Snake Game. There are two modi to choose from: easy (no borders), and hard (borders + random obstacles). Moreover, the user can set his or her own color scheme for each mode respectively by simply altering the hex-colors in colorSchemes.txt
 
 ## C++ & SDL
